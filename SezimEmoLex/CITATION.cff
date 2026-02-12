@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SezimEmoLex: A Kazakh Emotion Lexicon"
+message: "If you use this dataset or software, please cite it as below."
+authors:
+  - family-names: "Algashbekova"
+    given-names: "Nazerke"
+version: 1.0.0
+date-released: 2026-02-12
+license: "CC-BY-4.0"
