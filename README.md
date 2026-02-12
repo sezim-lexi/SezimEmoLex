@@ -73,6 +73,8 @@ data/sezim_emolex.csv
 ```
 
 It contains **8,557 Kazakh words** annotated with emotions and sentiment.
+You can visually inspect and explore the SezimEmoLex lexicon through the interactive interface below:
+🔗 [Open Interactive Explorer](https://sezimlex.manus.space)
 
 ### Dataset Format
 
