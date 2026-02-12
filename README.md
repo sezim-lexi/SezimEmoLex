@@ -2,8 +2,13 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
+
+
 **SezimEmoLex** is a Python package for emotion and sentiment analysis of Kazakh text.  
-It provides a simple and familiar API inspired by **NRCLex**, allowing text analysis using a lexicon of **8,557 Kazakh words**.
+SezimEmoLex provides an API conceptually similar to tools such as NRCLex, 
+while relying on an independently constructed Kazakh lexicon and annotation process. 
+It enables text analysis using a lexicon of **8,557 Kazakh words**.
+
 
 Each word in the lexicon is annotated with:
 
