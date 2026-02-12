@@ -1,4 +1,4 @@
-# SezimEmoLex: Kazakh Sentiment & Emotion Lexicon
+# SezimEmoLex: Sentiment and Emotion Lexicon for Kazakh Language
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
