@@ -56,13 +56,13 @@ print(f"Emotion Scores: {result['emotions']}")
 Install the package directly from GitHub:
 
 ```bash
-pip install git+https://github.com/YOUR-USERNAME/SezimEmoLex.git
+pip install git+https://github.com/sezim-lexi/SezimEmoLex.git
 ```
 
 Or, for development, clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SezimEmoLex.git
+git clone https://github.com/sezim-lexi/SezimEmoLex.git
 cd SezimEmoLex
 pip install -e .
 ```
@@ -140,7 +140,7 @@ If you use this dataset or software in your research, please cite it. You can us
   month = feb,
   year = 2026,
   publisher = {GitHub},
-  url = {https://github.com/YOUR-USERNAME/SezimEmoLex}
+  url = {https://github.com/sezim-lexi/SezimEmoLex}
 }
 ```
 
