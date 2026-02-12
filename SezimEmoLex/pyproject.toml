@@ -24,8 +24,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/your-username/sezim-emolex"
-"Bug Tracker" = "https://github.com/your-username/sezim-emolex/issues"
+"Homepage" = "https://github.com/sezim-lexi/sezim-emolex"
+"Bug Tracker" = "https://github.com/sezim-lexi/sezim-emolex/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
