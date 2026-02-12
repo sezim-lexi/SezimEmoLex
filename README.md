@@ -131,3 +131,21 @@ It contains **8,557 Kazakh words** annotated with emotions and sentiment.
 
 Contributions are welcome!  
 Please open an issue or submit a pull request.
+
+
+## 📚 Citation
+
+If you use **SezimEmoLex** in your research, dataset, or software, please cite the resource as follows:
+
+```bibtex
+@misc{sezimemolex2026,
+  title        = {SezimEmoLex: A Kazakh Sentiment and Emotion Lexicon},
+  author       = {Nazerke Algashbekova and Amandyk Kartbayev},
+  year         = {2026},
+  note         = {Work in progress — paper under preparation},
+  howpublished = {\url{https://github.com/sezim-lexi/SezimEmoLex}}
+}
+```
+
+We appreciate citations as they support reproducible research and proper attribution of scholarly resources.
+
