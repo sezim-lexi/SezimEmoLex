@@ -148,6 +148,4 @@ If you use this dataset or software in your research, please cite it. You can us
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
----
 
-*This package was developed with the assistance of Manus AI.*
