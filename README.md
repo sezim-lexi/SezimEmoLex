@@ -1,5 +1,5 @@
 # SezimEmoLex: Sentiment and Emotion Lexicon for Kazakh Language
-![SezimEmoLex Logo](sezim_emolex/logo.png)
+![SezimEmoLex Logo](src/sezim_emolex/logo.png)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 
